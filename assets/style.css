@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('../assets/img/nature.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.bodysec{
+    background-color: #ffffff21;
+    height: 100vh;
+    width: 100vw;
+}
+#citydropdown::-webkit-scrollbar{
+  display: none;
+  background: transparent;
+}
+select[id="citydropdown"]{
+  background-color: transparent;
+  color: black;
+  font-weight: 700;
+  padding: 10px 15px;
+  border: 1px solid green;
+  border-radius: 15px;
+}
+.content{
+    padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.562);
+    border: 1px solid white;
+    border-radius: 20px;
+}
