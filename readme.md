@@ -58,6 +58,10 @@ This project is a simple weather application that allows users to select an Indi
 3. **Display:**
    - The fetched data is displayed in the right section of the app, updating the respective DOM elements.
 
+## View Live
+
+https://weather-ap-is-theta.vercel.app/
+
 ## Function Details
 
 ### [`fetchWeatherForCity`](assets/app.js)
